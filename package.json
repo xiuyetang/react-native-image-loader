@@ -1,0 +1,18 @@
+{
+  "name": "react-native-image-loader",
+  "version": "1.0.0",
+  "description": "For use in webpack + React native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "webpack",
+    "image",
+    "loader"
+  ],
+  "author": "Will Piers",
+  "license": "ISC"
+}
