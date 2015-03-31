@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-loader",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "For use in webpack + React native applications",
   "main": "index.js",
   "scripts": {
