@@ -1,4 +1,4 @@
 module.exports = function() {
-  var path = this.context;
+  var path = this.resourcePath;
   return "require('image!" + path + "')";
 };
